@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CutomizeView">
+        <attr name="fontColor" format="color"></attr>
+        <attr name="fontSize" format="dimension"></attr>
+    </declare-styleable>
+    <declare-styleable name="ScrollView">
+        <attr name="picSourceId" format="reference"></attr>
+        <attr name="picSpeed" format="integer"></attr>
+    </declare-styleable>
+</resources>

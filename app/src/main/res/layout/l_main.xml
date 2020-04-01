@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/btn_cutomize1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义控件1">
+    </Button>
+    <Button
+        android:id="@+id/btn_cutomize2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义控件2">
+    </Button>
+    <Button
+        android:id="@+id/btn_cutomize3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义控件3">
+    </Button>
+    <Button
+        android:id="@+id/btn_cutomize4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义控件4">
+    </Button>
+    <Button
+        android:id="@+id/btn_cutomize5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义控件5">
+    </Button>
+    <Button
+        android:id="@+id/btn_cutomize6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义控件6">
+    </Button>
+</LinearLayout>
